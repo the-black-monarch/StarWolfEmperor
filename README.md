@@ -1,8 +1,5 @@
 
 # Hi, I'm Star Wolf Emperor 👋
----
-
-## 🚀 About Me
 Just a Regular Software Enginneer Dude Fascinated by the Beauty of Flutter :sunglasses: and Simplicity of Python :smile:
 ---
 
@@ -17,7 +14,6 @@ Just a Regular Software Enginneer Dude Fascinated by the Beauty of Flutter :sung
 💬 Ask me about My Future Prospects
 
 ⚡️ Fun fact: Did you know that i'm an amazing being?😄
-
 
 ## 🛠 Skills
 Algorithm Analysis & Design, Flutter, Pyhton...
